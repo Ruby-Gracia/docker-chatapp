@@ -1,0 +1,22 @@
+.main__chatbody {
+  flex-grow: 1;
+  background-color: #f4f3f8;
+  border-radius: 10px;
+  padding: 15px 20px;
+  display: flex;overflow-x: hidden;
+}
+.date {
+  font-size: 9px;
+  color: black;
+  z-index: 99;
+  position: relative;
+ float: right;
+  top: 30px;
+}
+.name {
+  font-size: 10px;
+  font-weight: bold;
+  color: black;
+  position: relative;
+  bottom: 15px;
+}
